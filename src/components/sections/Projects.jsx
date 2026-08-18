@@ -43,6 +43,7 @@ const featuredProjects = [
       "Email Notifications",
     ],
     github: "https://github.com/deepakpandit31/Pryzo",
+    live: "https://pryzo.vercel.app/",
   },
 
   {
