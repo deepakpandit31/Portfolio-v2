@@ -247,7 +247,7 @@ function Hero() {
               <a
                 href={heroData.resume}
                 target="_blank"
-                rel="noreferrer"
+                rel="noopener noreferrer"
               >
 
                 <button className="cursor-pointer px-7 py-3 rounded-xl border border-zinc-700 hover:border-emerald-400 hover:bg-zinc-900 transition flex items-center gap-3">

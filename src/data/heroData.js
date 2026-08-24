@@ -1,3 +1,4 @@
+import resume from "../assets/projects/DeepakSikhwal_Resume.pdf";
 const heroData = {
 
     availability: "Available for Full-Time & Internship",
@@ -36,7 +37,7 @@ const heroData = {
         "Tailwind CSS"
 
     ],
-    resume: "../assets/Deepak_Sikhwal_Frontend_MERN_Resume.pdf"
+    resume,
 
 };
 
